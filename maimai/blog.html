@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>KirisameVanilla's Blog</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+      display: flex;
+      min-height: 100vh;
+    }
+
+    header {
+      background-color: #007acc;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+      position: fixed;
+      width: 100%;
+      top: 0;
+      z-index: 10;
+    }
+
+    header h1 {
+      margin: 0;
+      padding-bottom: 10px;
+    }
+
+    .container {
+      display: flex;
+      flex: 1;
+      margin-top: 80px;
+    }
+
+    aside {
+      width: 250px;
+      background-color: #ffffff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-right: 1px solid #ddd;
+      padding: 20px;
+    }
+
+    aside h2 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+
+    aside ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    aside ul li {
+      margin: 10px 0;
+    }
+
+    aside ul li a {
+      text-decoration: none;
+      color: #007acc;
+    }
+
+    aside ul li a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      flex: 1;
+      padding: 20px;
+      max-width: 800px;
+      margin: 0 auto;
+      background: white;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 0.9em;
+      color: gray;
+    }
+
+    #markdown-content {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>我的博客</h1>
+  </header>
+  <div class="container">
+    <aside>
+      <h2>Blog Posts</h2>
+      <ul id="blog-list">
+        <!-- 在这里手动添加 Markdown 文件的链接 -->
+        <li><a href="?file=blog/星星B培养计划.md">星星修炼手册</a></li>
+        <li><a href="?file=blog/post1.md">Post Test</a></li>
+      </ul>
+    </aside>
+    <main>
+      <div id="markdown-content">
+      </div>
+    </main>
+  </div>
+  <footer>
+    <p>&copy; 2024 KirisameVanilla. All rights reserved.</p>
+  </footer>
+  <script>
+    function getMarkdownFileFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('file');
+    }
+
+    function loadMarkdown(file) {
+      if (!file) {
+        document.getElementById("markdown-content").innerHTML = "<p>请选择要查看的博客文章。</p>";
+        return;
+      }
+      console.log("Fetching:", file);
+      fetch(file)
+        .then(response => {
+          console.log("Response status:", response.status);
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status} - Cannot load ${file}`);
+          }
+          return response.text();
+        })
+        .then(text => {
+          console.log("Markdown loaded successfully.");
+          const converter = new showdown.Converter();
+          const html = converter.makeHtml(text);
+          document.getElementById("markdown-content").innerHTML = html;
+        })
+        .catch(err => {
+          console.error("Error loading markdown file:", err);
+          document.getElementById("markdown-content").innerHTML = `<p>无法加载文件：${file}</p>`;
+        });
+    }
+
+    const markdownFile = getMarkdownFileFromURL();
+    loadMarkdown(markdownFile);
+  </script>
+  <script src="https://unpkg.com/showdown@1.9.1/dist/showdown.min.js"></script>
+</body>
+
+</html>

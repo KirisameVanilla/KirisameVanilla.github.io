@@ -167,5 +167,28 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.0.9/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.0.9/latest.zip"
+  },
+  {
+    "Author": "kawaii, NightmareXIV, KirisameVanilla (本地化)",
+    "Name": "Orbwalker(API XI)",
+    "InternalName": "Orbwalker",
+    "AssemblyVersion": "1.0.1.0",
+    "Description": "读条时锁定玩家的移动，并允许在战斗过程中最大限度地延长读条者的移动时间。",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "Combat"
+    ],
+    "RepoUrl": "https://github.com/KirisameVanilla/Orbwalker",
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
+    "Punchline": "滑——步——",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip"
   }
 ]

@@ -209,5 +209,33 @@
     "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
     "DownloadCount": 0,
     "LastUpdate": "1733282728"
+  },
+  {
+    "Author": "ArchiTed, KirisameVanilla",
+    "Name": "Fake Name",
+    "InternalName": "FakeName",
+    "AssemblyVersion": "2.0.0.0",
+    "Description": "Visually changes the player's name.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KirisameVanilla/FakeName",
+    "Tags": [
+      "name",
+      "ui"
+    ],
+    "CategoryTags": [
+      "ui"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/FakeName/main/icon.png",
+    "Punchline": "Show a fake name on your game ui.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.0/latest.zip",
+    "LastUpdate": "1733282728"
   }
 ]

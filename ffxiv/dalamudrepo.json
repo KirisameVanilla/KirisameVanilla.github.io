@@ -66,7 +66,7 @@
       "radar"
     ],
     "DalamudApiLevel": 10,
-    "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
+    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
     "Punchline": "Displays game objects location on screen and map.",
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar/releases/download/2.0.6.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar/releases/download/2.0.6.9/latest.zip",
@@ -91,7 +91,7 @@
       "radar"
     ],
     "DalamudApiLevel": 11,
-    "IconUrl": "https://i.loli.net/2021/09/24/UaxuSd9ODk5Ngil.png",
+    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
     "Punchline": "Displays game objects location on screen and map.",
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.2/latest.zip",

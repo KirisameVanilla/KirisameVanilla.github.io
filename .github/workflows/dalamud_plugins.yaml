@@ -4,7 +4,6 @@ on:
   push:
     branches:
     - master
-concurrency: regenerate
 jobs:
   generate:
     name: Regenerate dalamudrepo.json

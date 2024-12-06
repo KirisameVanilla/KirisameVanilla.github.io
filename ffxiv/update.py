@@ -4,14 +4,14 @@ import time
 from urllib.parse import urlparse
 
 def update_time():
-    with open('dalamudrepo.json', 'r', encoding='utf-8') as f:
+    with open('ffxiv/dalamudrepo.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     current_timestamp = int(time.time())
 
     for plugin in data:
         plugin["LastUpdate"] = current_timestamp
 
-    with open('dalamudrepo.json', 'w', encoding='utf-8') as f:
+    with open('ffxiv/dalamudrepo.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def get_download_count(repo_owner, repo_name) -> int:
@@ -26,7 +26,7 @@ def get_download_count(repo_owner, repo_name) -> int:
     return total_download_count
 
 def update_download_count(repo_owner):
-    with open('dalamudrepo.json', 'r', encoding='utf-8') as f:
+    with open('ffxiv/dalamudrepo.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     
     for plugin in data:
@@ -36,7 +36,7 @@ def update_download_count(repo_owner):
         last_part = path.split('/')[-1]
         plugin["DownloadCount"] = get_download_count(repo_owner, last_part)
 
-    with open('dalamudrepo.json', 'w', encoding='utf-8') as f:
+    with open('ffxiv/dalamudrepo.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 

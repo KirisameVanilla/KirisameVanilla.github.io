@@ -68,7 +68,7 @@
     <h2>Blog Posts</h2>
     <ul id="blog-list">
       <!-- 在这里手动添加 Markdown 文件的链接 -->
-      <li><a href="#" onclick="loadMarkdown('blog/post1.md')">Post Test</a></li>
+      <li><a href="#" onclick="loadMarkdown('./blog/post1.md')">Post Test</a></li>
     </ul>
     <div id="markdown-content">
       <!-- 显示 Markdown 内容 -->
@@ -80,20 +80,27 @@
   <script>
     // Markdown 渲染函数
     function loadMarkdown(file) {
+      console.log("Fetching:", file); // 检查 fetch 调用的路径
       fetch(file)
         .then(response => {
-          if (!response.ok) throw new Error("无法加载文件");
+          console.log("Response status:", response.status); // 输出响应状态码
+          if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status} - Cannot load ${file}`);
+          }
           return response.text();
         })
         .then(text => {
+          console.log("Markdown loaded successfully.");
           const converter = new showdown.Converter();
           const html = converter.makeHtml(text);
           document.getElementById("markdown-content").innerHTML = html;
         })
         .catch(err => {
+          console.error("Error loading markdown file:", err);
           document.getElementById("markdown-content").innerHTML = `<p>无法加载文件：${file}</p>`;
         });
     }
+
   </script>
   <script src="https://cdn.jsdelivr.net/npm/showdown/dist/showdown.min.js"></script>
 </body>

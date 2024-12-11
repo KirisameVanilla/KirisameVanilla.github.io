@@ -68,7 +68,7 @@
     <h2>Blog Posts</h2>
     <ul id="blog-list">
       <!-- 在这里手动添加 Markdown 文件的链接 -->
-      <li><a href="#" onclick="loadMarkdown('./blog/post1.md')">Post Test</a></li>
+      <li><a href="?file=./blog/post1.md">Post Test</a></li>
     </ul>
     <div id="markdown-content">
       <!-- 显示 Markdown 内容 -->
@@ -78,8 +78,18 @@
     <p>&copy; 2024 KirisameVanilla. All rights reserved.</p>
   </footer>
   <script>
+    // 从 URL 参数中获取 Markdown 文件名
+    function getMarkdownFileFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('file');
+    }
+
     // Markdown 渲染函数
     function loadMarkdown(file) {
+      if (!file) {
+        document.getElementById("markdown-content").innerHTML = "<p>请选择要查看的博客文章。</p>";
+        return;
+      }
       console.log("Fetching:", file); // 检查 fetch 调用的路径
       fetch(file)
         .then(response => {
@@ -101,6 +111,9 @@
         });
     }
 
+    // 加载页面时自动渲染 Markdown
+    const markdownFile = getMarkdownFileFromURL();
+    loadMarkdown(markdownFile);
   </script>
   <script src="https://unpkg.com/showdown@1.9.1/dist/showdown.min.js"></script>
 </body>

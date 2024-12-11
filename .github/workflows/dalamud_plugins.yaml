@@ -4,6 +4,8 @@ on:
   push:
     branches:
     - master
+    paths:
+    - 'ffxiv/dalamudrepo.json'
 jobs:
   generate:
     name: Regenerate dalamudrepo.json

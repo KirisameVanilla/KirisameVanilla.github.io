@@ -11,6 +11,8 @@
       margin: 0;
       padding: 0;
       background-color: #f4f4f4;
+      display: flex;
+      min-height: 100vh;
     }
 
     header {
@@ -18,9 +20,58 @@
       color: white;
       padding: 20px 0;
       text-align: center;
+      position: fixed;
+      width: 100%;
+      top: 0;
+      z-index: 10;
+    }
+
+    header h1 {
+      margin: 0;
+      padding-bottom: 10px;
+      /* 增加额外的间距 */
+    }
+
+    .container {
+      display: flex;
+      flex: 1;
+      margin-top: 80px;
+    }
+
+    aside {
+      width: 250px;
+      background-color: #ffffff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-right: 1px solid #ddd;
+      padding: 20px;
+    }
+
+    aside h2 {
+      font-size: 1.5em;
+      margin-bottom: 10px;
+    }
+
+    aside ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+
+    aside ul li {
+      margin: 10px 0;
+    }
+
+    aside ul li a {
+      text-decoration: none;
+      color: #007acc;
+    }
+
+    aside ul li a:hover {
+      text-decoration: underline;
     }
 
     main {
+      flex: 1;
       padding: 20px;
       max-width: 800px;
       margin: 0 auto;
@@ -36,24 +87,6 @@
       color: gray;
     }
 
-    #blog-list {
-      list-style: none;
-      padding: 0;
-    }
-
-    #blog-list li {
-      margin: 10px 0;
-    }
-
-    #blog-list li a {
-      text-decoration: none;
-      color: #007acc;
-    }
-
-    #blog-list li a:hover {
-      text-decoration: underline;
-    }
-
     #markdown-content {
       margin-top: 20px;
     }
@@ -64,16 +97,20 @@
   <header>
     <h1>我的博客</h1>
   </header>
-  <main>
-    <h2>Blog Posts</h2>
-    <ul id="blog-list">
-      <!-- 在这里手动添加 Markdown 文件的链接 -->
-      <li><a href="?file=./blog/post1.md">Post Test</a></li>
-    </ul>
-    <div id="markdown-content">
-      <!-- 显示 Markdown 内容 -->
-    </div>
-  </main>
+  <div class="container">
+    <aside>
+      <h2>Blog Posts</h2>
+      <ul id="blog-list">
+        <!-- 在这里手动添加 Markdown 文件的链接 -->
+        <li><a href="?file=blog/post1.md">Post Test</a></li>
+      </ul>
+    </aside>
+    <main>
+      <div id="markdown-content">
+        <!-- 显示 Markdown 内容 -->
+      </div>
+    </main>
+  </div>
   <footer>
     <p>&copy; 2024 KirisameVanilla. All rights reserved.</p>
   </footer>

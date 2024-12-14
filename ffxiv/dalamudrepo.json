@@ -210,7 +210,7 @@
     "AssemblyVersion": "1.0.0.3",
     "RepoUrl": "https://github.com/Nukoooo/MyPluginsArentCheat",
     "ApplicableVersion": "any",
-    "Tags": [],
+    "Tags": [ "unban" ],
     "DalamudApiLevel": 10,
     "DownloadLinkInstall": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
     "IsHide": false,

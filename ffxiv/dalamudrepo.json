@@ -277,5 +277,32 @@
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
     "LastUpdate": 1734336564,
     "DownloadCount": 4
+  },
+  {
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.0/latest.zip",
+    "LastUpdate": 1734336564,
+    "DownloadCount": 4,
+    "Author": "KirisameVanilla",
+    "Name": "BreakfastHuntTrainLeader",
+    "InternalName": "BreakfastHuntTrainLeader",
+    "AssemblyVersion": "1.0.0.0",
+    "Description": "早车小工具。\n魂环一直催的，端上来力（喜）",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
+    "Tags": [
+      "hunt"
+    ],
+    "CategoryTags": [
+      "ui"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "早车小工具。",
+    "AcceptsFeedback": true
   }
 ]

@@ -23,7 +23,7 @@
     "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip",
     "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip",
     "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.6.0.zip",
-    "LastUpdate": 1734336564
+    "LastUpdate": 1734443976
   },
   {
     "Author": "Asvel",
@@ -49,7 +49,7 @@
     "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
     "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
     "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
-    "LastUpdate": 1734336564
+    "LastUpdate": 1734443976
   },
   {
     "Author": "akira0245, KirisameVanilla",
@@ -73,8 +73,8 @@
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar/releases/download/2.0.6.9/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 281,
-    "LastUpdate": 1734336564
+    "DownloadCount": 284,
+    "LastUpdate": 1734443976
   },
   {
     "Author": "akira0245, KirisameVanilla",
@@ -98,8 +98,8 @@
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.3/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 281,
-    "LastUpdate": 1734336564
+    "DownloadCount": 284,
+    "LastUpdate": 1734443976
   },
   {
     "Author": "KirisameVanilla",
@@ -121,9 +121,9 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.3/latest.zip",
-    "LastUpdate": 1734336564,
+    "LastUpdate": 1734443976,
     "RepoUrl": "https://github.com/KirisameVanilla/Marisa-s-HuntKit",
-    "DownloadCount": 68
+    "DownloadCount": 69
   },
   {
     "Author": "KirisameVanilla",
@@ -147,9 +147,9 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
-    "LastUpdate": 1734336564,
+    "LastUpdate": 1734443976,
     "RepoUrl": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview",
-    "DownloadCount": 81
+    "DownloadCount": 83
   },
   {
     "Author": "kawaii, NightmareXIV, KirisameVanilla (本地化)",
@@ -173,8 +173,8 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.0.9/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.0.9/latest.zip",
-    "LastUpdate": 1734336564,
-    "DownloadCount": 68
+    "LastUpdate": 1734443976,
+    "DownloadCount": 71
   },
   {
     "Author": "kawaii, NightmareXIV, KirisameVanilla (本地化)",
@@ -198,8 +198,8 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
-    "LastUpdate": 1734336564,
-    "DownloadCount": 68
+    "LastUpdate": 1734443976,
+    "DownloadCount": 71
   },
   {
     "Author": "Nuko",
@@ -220,7 +220,7 @@
     "DownloadLinkTesting": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
     "DownloadLinkUpdate": "https://github.com/Nukoooo/DalamudPlugins/raw/dev/plugins/MyPluginsArentCheat/latest.zip",
     "DownloadCount": 0,
-    "LastUpdate": 1734336564
+    "LastUpdate": 1734443976
   },
   {
     "Author": "KirisameVanilla",
@@ -247,8 +247,8 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
-    "LastUpdate": 1734336564,
-    "DownloadCount": 4
+    "LastUpdate": 1734443976,
+    "DownloadCount": 11
   },
   {
     "Author": "KirisameVanilla",
@@ -275,15 +275,15 @@
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.6/latest.zip",
-    "LastUpdate": 1734336564,
-    "DownloadCount": 4
+    "LastUpdate": 1734443976,
+    "DownloadCount": 11
   },
   {
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.0/latest.zip",
-    "LastUpdate": 1734336564,
-    "DownloadCount": 4,
+    "LastUpdate": 1734443976,
+    "DownloadCount": 0,
     "Author": "KirisameVanilla",
     "Name": "BreakfastHuntTrainLeader",
     "InternalName": "BreakfastHuntTrainLeader",

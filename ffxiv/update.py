@@ -43,8 +43,8 @@ def reorder_json():
     with open('ffxiv/dalamudrepo.json', 'r', encoding='utf-8') as f:
         data = json.load(f)
     key_order = [
-    "Author", "Name", "InternalName", "Punchline", "Description", "Tags", "CategoryTags",
-    "RepoUrl", "AssemblyVersion", "ApplicableVersion", "DalamudApiLevel", "IsHide", 
+    "Author", "Name", "InternalName", "DalamudApiLevel", "Punchline", "Description",
+    "Tags", "CategoryTags", "RepoUrl", "AssemblyVersion", "ApplicableVersion", "IsHide", 
     "IsTestingExclusive", "DownloadCount", "DownloadLinkInstall", 
     "DownloadLinkTesting", "DownloadLinkUpdate", "LastUpdate"
     ]

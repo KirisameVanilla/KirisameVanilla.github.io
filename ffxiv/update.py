@@ -39,7 +39,23 @@ def update_download_count(repo_owner):
     with open('ffxiv/dalamudrepo.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def reorder_json():
+    with open('ffxiv/dalamudrepo.json', 'r', encoding='utf-8') as f:
+        data = json.load(f)
+    key_order = [
+    "Author", "Name", "InternalName", "Punchline", "Description", "Tags", "CategoryTags",
+    "RepoUrl", "AssemblyVersion", "ApplicableVersion", "DalamudApiLevel", "IsHide", 
+    "IsTestingExclusive", "DownloadCount", "DownloadLinkInstall", 
+    "DownloadLinkTesting", "DownloadLinkUpdate", "LastUpdate"
+    ]
+    for entry in data:
+        entry_reordered = {key: entry[key] for key in key_order if key in entry}
+        entry.clear()
+        entry.update(entry_reordered)
+    with open('ffxiv/dalamudrepo.json', 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
 
 
 update_time()
 update_download_count("KirisameVanilla")
+reorder_json()

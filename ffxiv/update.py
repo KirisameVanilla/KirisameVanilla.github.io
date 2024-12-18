@@ -44,7 +44,7 @@ def reorder_json():
         data = json.load(f)
     key_order = [
     "Author", "Name", "InternalName", "DalamudApiLevel", "Punchline", "Description",
-    "Tags", "CategoryTags", "RepoUrl", "AssemblyVersion", "ApplicableVersion", "IsHide", 
+    "Tags", "CategoryTags", "RepoUrl", "IconUrl", "AssemblyVersion", "ApplicableVersion", "IsHide", 
     "IsTestingExclusive", "DownloadCount", "DownloadLinkInstall", 
     "DownloadLinkTesting", "DownloadLinkUpdate", "LastUpdate"
     ]

@@ -251,8 +251,8 @@
     "Name": "BreakfastHuntTrainLeader",
     "InternalName": "BreakfastHuntTrainLeader",
     "DalamudApiLevel": 10,
-    "Punchline": "早车小工具。",
-    "Description": "早车小工具。\n魂环一直催的，端上来力（喜）",
+    "Punchline": "早车带车小工具。",
+    "Description": "早车带车小工具。\n豆豆柴区莫古力区特供",
     "Tags": [
       "hunt"
     ],
@@ -261,12 +261,12 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
     "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/BreakfastHuntTrainLeader/master/icon.png",
-    "AssemblyVersion": "1.0.0.3",
+    "AssemblyVersion": "1.0.0.4",
     "ApplicableVersion": "any",
     "DownloadCount": 7,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.3/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.4/latest.zip",
     "LastUpdate": 1734491910
   }
 ]

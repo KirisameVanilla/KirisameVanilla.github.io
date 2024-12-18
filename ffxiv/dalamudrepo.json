@@ -64,6 +64,7 @@
       "radar"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Radar",
+    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
     "AssemblyVersion": "2.0.6.9",
     "ApplicableVersion": "any",
     "IsHide": false,
@@ -87,6 +88,7 @@
       "radar"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Radar",
+    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
     "AssemblyVersion": "2.1.0.3",
     "ApplicableVersion": "any",
     "IsHide": false,
@@ -148,6 +150,7 @@
       "Combat"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Orbwalker",
+    "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
     "AssemblyVersion": "1.0.0.9",
     "ApplicableVersion": "any",
     "DownloadCount": 72,
@@ -167,6 +170,7 @@
       "Combat"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Orbwalker",
+    "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
     "AssemblyVersion": "1.0.1.0",
     "ApplicableVersion": "any",
     "DownloadCount": 72,
@@ -256,6 +260,7 @@
       "ui"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
+    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/BreakfastHuntTrainLeader/master/icon.png",
     "AssemblyVersion": "1.0.0.3",
     "ApplicableVersion": "any",
     "DownloadCount": 3,

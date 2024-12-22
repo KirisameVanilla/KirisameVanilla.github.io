@@ -261,12 +261,12 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
     "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/BreakfastHuntTrainLeader/master/icon.png",
-    "AssemblyVersion": "1.0.0.8",
+    "AssemblyVersion": "1.0.0.9",
     "ApplicableVersion": "any",
     "DownloadCount": 24,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.8/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.9/latest.zip",
     "LastUpdate": 1734717897
   }
 ]

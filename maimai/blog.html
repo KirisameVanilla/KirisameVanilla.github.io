@@ -29,7 +29,6 @@
     header h1 {
       margin: 0;
       padding-bottom: 10px;
-      /* 增加额外的间距 */
     }
 
     .container {
@@ -102,13 +101,12 @@
       <h2>Blog Posts</h2>
       <ul id="blog-list">
         <!-- 在这里手动添加 Markdown 文件的链接 -->
-        <li><a href="?file-blog/post_SLIDE_CRZ.md">星星B修炼手册</a></li>
+        <li><a href="?file=blog/星星B培养计划.md">星星修炼手册</a></li>
         <li><a href="?file=blog/post1.md">Post Test</a></li>
       </ul>
     </aside>
     <main>
       <div id="markdown-content">
-        <!-- 显示 Markdown 内容 -->
       </div>
     </main>
   </div>
@@ -116,13 +114,11 @@
     <p>&copy; 2024 KirisameVanilla. All rights reserved.</p>
   </footer>
   <script>
-    // 从 URL 参数中获取 Markdown 文件名
     function getMarkdownFileFromURL() {
       const params = new URLSearchParams(window.location.search);
       return params.get('file');
     }
 
-    // Markdown 渲染函数
     function loadMarkdown(file) {
       if (!file) {
         document.getElementById("markdown-content").innerHTML = "<p>请选择要查看的博客文章。</p>";
@@ -149,7 +145,6 @@
         });
     }
 
-    // 加载页面时自动渲染 Markdown
     const markdownFile = getMarkdownFileFromURL();
     loadMarkdown(markdownFile);
   </script>

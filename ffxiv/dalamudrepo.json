@@ -89,14 +89,14 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Radar",
     "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
-    "AssemblyVersion": "2.1.0.3",
+    "AssemblyVersion": "2.1.0.4",
     "ApplicableVersion": "any",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 308,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.3/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.4/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar/releases/download/2.1.0.4/latest.zip",
     "LastUpdate": 1735978570
   },
   {

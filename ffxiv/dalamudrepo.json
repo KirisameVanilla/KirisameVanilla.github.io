@@ -3,27 +3,21 @@
     "Author": "Asvel",
     "Name": "Literal Map Link",
     "InternalName": "LiteralMapLink",
-    "DalamudApiLevel": 11,
     "Punchline": "Turn map coordinates literal into interactable map link.",
     "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.",
-    "Tags": [
-      "Chat",
-      "Utility"
-    ],
-    "CategoryTags": [
-      "social",
-      "utility"
-    ],
+    "Tags": ["Utility", "Social"],
     "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
-    "AssemblyVersion": "1.1.7.1",
+    "AssemblyVersion": "1.1.8.0",
     "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 0,
-    "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
-    "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
-    "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.7.1.zip",
-    "LastUpdate": 1739885415
+    "CategoryTags": ["Utility", "Social"],
+    "LastUpdate": "1737845120",
+    "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.8.0.zip",
+    "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.8.0.zip",
+    "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.8.0.zip"
   },
   {
     "Author": "akira0245, KirisameVanilla",
@@ -147,7 +141,7 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
     "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/BreakfastHuntTrainLeader/master/icon.png",
-    "AssemblyVersion": "1.0.0.9",
+    "AssemblyVersion": "1.0.1.0",
     "ApplicableVersion": "any",
     "DownloadCount": 51,
     "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",

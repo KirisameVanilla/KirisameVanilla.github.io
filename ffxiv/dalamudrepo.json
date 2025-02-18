@@ -157,7 +157,7 @@
     "Author": "KirisameVanilla",
     "Name": "BreakfastHuntTrainLeader",
     "InternalName": "BreakfastHuntTrainLeader",
-    "DalamudApiLevel": 10,
+    "DalamudApiLevel": 11,
     "Punchline": "早车带车小工具。",
     "Description": "早车带车小工具。\n豆豆柴区莫古力区特供",
     "Tags": [
@@ -171,9 +171,9 @@
     "AssemblyVersion": "1.0.0.9",
     "ApplicableVersion": "any",
     "DownloadCount": 50,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.9/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.0.9/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",
     "LastUpdate": 1739875091
   }
 ]

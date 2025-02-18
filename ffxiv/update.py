@@ -18,12 +18,14 @@ def get_download_count(repo_owner, repo_name) -> int:
     url = f"https://api.github.com/repos/{repo_owner}/{repo_name}/releases"
     response = requests.get(url)
     data = json.loads(response.text)
-    total_download_count = 0
-    for release in data:
-        for asset in release["assets"]:
-            download_count = asset["download_count"]
-            total_download_count += download_count
-    return total_download_count
+    try:
+        total_download_count = 0
+        for release in data:
+            for asset in release["assets"]:
+                download_count = asset["download_count"]
+                total_download_count += download_count
+    finally:
+        return total_download_count
 
 def update_download_count(repo_owner):
     with open('ffxiv/dalamudrepo.json', 'r', encoding='utf-8') as f:

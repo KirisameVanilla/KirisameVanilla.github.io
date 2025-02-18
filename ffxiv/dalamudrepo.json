@@ -101,12 +101,12 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Orbwalker",
     "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "ApplicableVersion": "any",
     "DownloadCount": 140,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.1/latest.zip",
     "LastUpdate": 1739884608
   },
   {

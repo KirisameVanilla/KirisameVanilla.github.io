@@ -124,12 +124,12 @@
       "ui"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/FakeName",
-    "AssemblyVersion": "2.0.0.7",
+    "AssemblyVersion": "2.0.0.8",
     "ApplicableVersion": "any",
     "DownloadCount": 95,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.7/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.7/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.7/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.8/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.8/latest.zip",
     "LastUpdate": 1740287754
   },
   {

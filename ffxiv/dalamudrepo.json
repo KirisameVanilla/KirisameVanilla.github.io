@@ -113,7 +113,7 @@
     "Author": "KirisameVanilla",
     "Name": "Fake Name",
     "InternalName": "FakeName",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "Punchline": "Show a fake name on your game ui.",
     "Description": "Visually changes the player's name.",
     "Tags": [
@@ -124,13 +124,13 @@
       "ui"
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/FakeName",
-    "AssemblyVersion": "2.0.0.8",
+    "AssemblyVersion": "2.0.0.9",
     "ApplicableVersion": "any",
-    "DownloadCount": 550,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.8/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.8/latest.zip",
-    "LastUpdate": 1751689268
+    "DownloadCount": 548,
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.9/latest.zip",
+    "LastUpdate": 1751504358
   },
   {
     "Author": "KirisameVanilla",

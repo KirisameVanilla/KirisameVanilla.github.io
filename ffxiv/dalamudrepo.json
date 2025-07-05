@@ -93,7 +93,7 @@
     "Author": "kawaii, NightmareXIV, KirisameVanilla (本地化)",
     "Name": "Orbwalker",
     "InternalName": "Orbwalker",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "Punchline": "滑——步——",
     "Description": "读条时锁定玩家的移动，并允许在战斗过程中最大限度地延长读条者的移动时间。",
     "Tags": [
@@ -101,12 +101,12 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Orbwalker",
     "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
-    "AssemblyVersion": "1.0.1.1",
+    "AssemblyVersion": "1.0.1.3",
     "ApplicableVersion": "any",
     "DownloadCount": 412,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.3/latest.zip",
     "LastUpdate": 1751504358
   },
   {
@@ -136,7 +136,7 @@
     "Author": "KirisameVanilla",
     "Name": "BreakfastHuntTrainLeader",
     "InternalName": "BreakfastHuntTrainLeader",
-    "DalamudApiLevel": 11,
+    "DalamudApiLevel": 12,
     "Punchline": "早车带车小工具。",
     "Description": "早车带车小工具。\n豆豆柴区莫古力区特供",
     "Tags": [
@@ -147,12 +147,12 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
     "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/BreakfastHuntTrainLeader/master/icon.png",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "ApplicableVersion": "any",
     "DownloadCount": 129,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
     "LastUpdate": 1751504358
   }
 ]

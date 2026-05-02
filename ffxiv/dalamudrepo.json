@@ -39,7 +39,7 @@
     ],
     "RepoUrl": "https://github.com/KirisameVanilla/Radar",
     "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
-    "AssemblyVersion": "2.1.1.6",
+    "AssemblyVersion": "2.1.1.7",
     "ApplicableVersion": "any",
     "IsHide": false,
     "IsTestingExclusive": false,

@@ -26,7 +26,7 @@
     "LastUpdate": 1777712019
   },
   {
-    "Author": "akira0245, KirisameVanilla",
+    "Author": "akira0245, SparkBarry",
     "Name": "Radar",
     "InternalName": "Radar",
     "DalamudApiLevel": 15,
@@ -37,20 +37,20 @@
       "hunt",
       "radar"
     ],
-    "RepoUrl": "https://github.com/KirisameVanilla/Radar",
-    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/Radar/main/Radar.png",
+    "RepoUrl": "https://github.com/SparkBarry/Radar",
+    "IconUrl": "https://raw.githubusercontent.com/SparkBarry/Radar/main/Radar.png",
     "AssemblyVersion": "2.1.1.7",
     "ApplicableVersion": "any",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadCount": 5466,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Radar/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Radar/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Radar/releases/latest/download/latest.zip",
+    "DownloadLinkInstall": "https://github.com/SparkBarry/Radar/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SparkBarry/Radar/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SparkBarry/Radar/releases/latest/download/latest.zip",
     "LastUpdate": 1777712019
   },
   {
-    "Author": "KirisameVanilla",
+    "Author": "SparkBarry",
     "Name": "HuntKit",
     "InternalName": "HuntKit",
     "DalamudApiLevel": 12,
@@ -59,17 +59,17 @@
     "Tags": [
       "hunt"
     ],
-    "RepoUrl": "https://github.com/KirisameVanilla/Marisa-s-HuntKit",
+    "RepoUrl": "https://github.com/SparkBarry/Marisa-s-HuntKit",
     "AssemblyVersion": "0.0.0.5",
     "ApplicableVersion": "any",
     "DownloadCount": 252,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
+    "DownloadLinkInstall": "https://github.com/SparkBarry/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SparkBarry/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SparkBarry/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
     "LastUpdate": 1777712019
   },
   {
-    "Author": "KirisameVanilla",
+    "Author": "SparkBarry",
     "Name": "SpecialWeaponProgressOverview",
     "InternalName": "SpecialWeaponProgessOverview",
     "DalamudApiLevel": 10,
@@ -80,17 +80,17 @@
       "Weapon",
       "Eureka"
     ],
-    "RepoUrl": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview",
+    "RepoUrl": "https://github.com/SparkBarry/SpecialWeaponProgressOverview",
     "AssemblyVersion": "0.0.0.2",
     "ApplicableVersion": "any",
     "DownloadCount": 105,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkInstall": "https://github.com/SparkBarry/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SparkBarry/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SparkBarry/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
     "LastUpdate": 1777712019
   },
   {
-    "Author": "kawaii, NightmareXIV, KirisameVanilla (本地化)",
+    "Author": "kawaii, NightmareXIV, SparkBarry (本地化)",
     "Name": "Orbwalker",
     "InternalName": "Orbwalker",
     "DalamudApiLevel": 12,
@@ -99,18 +99,18 @@
     "Tags": [
       "Combat"
     ],
-    "RepoUrl": "https://github.com/KirisameVanilla/Orbwalker",
+    "RepoUrl": "https://github.com/SparkBarry/Orbwalker",
     "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
     "AssemblyVersion": "1.0.1.3",
     "ApplicableVersion": "any",
     "DownloadCount": 976,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.3/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.3/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/Orbwalker/releases/download/1.0.1.3/latest.zip",
+    "DownloadLinkInstall": "https://github.com/SparkBarry/Orbwalker/releases/download/1.0.1.3/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SparkBarry/Orbwalker/releases/download/1.0.1.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SparkBarry/Orbwalker/releases/download/1.0.1.3/latest.zip",
     "LastUpdate": 1777712019
   },
   {
-    "Author": "KirisameVanilla",
+    "Author": "SparkBarry",
     "Name": "Fake Name",
     "InternalName": "FakeName",
     "DalamudApiLevel": 12,
@@ -123,17 +123,17 @@
     "CategoryTags": [
       "ui"
     ],
-    "RepoUrl": "https://github.com/KirisameVanilla/FakeName",
+    "RepoUrl": "https://github.com/SparkBarry/FakeName",
     "AssemblyVersion": "2.0.0.9",
     "ApplicableVersion": "any",
     "DownloadCount": 1170,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.9/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/FakeName/releases/download/2.0.0.9/latest.zip",
+    "DownloadLinkInstall": "https://github.com/SparkBarry/FakeName/releases/download/2.0.0.9/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SparkBarry/FakeName/releases/download/2.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SparkBarry/FakeName/releases/download/2.0.0.9/latest.zip",
     "LastUpdate": 1777712019
   },
   {
-    "Author": "KirisameVanilla",
+    "Author": "SparkBarry",
     "Name": "BreakfastHuntTrainLeader",
     "InternalName": "BreakfastHuntTrainLeader",
     "DalamudApiLevel": 12,
@@ -145,14 +145,14 @@
     "CategoryTags": [
       "ui"
     ],
-    "RepoUrl": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader",
-    "IconUrl": "https://raw.githubusercontent.com/KirisameVanilla/BreakfastHuntTrainLeader/master/icon.png",
+    "RepoUrl": "https://github.com/SparkBarry/BreakfastHuntTrainLeader",
+    "IconUrl": "https://raw.githubusercontent.com/SparkBarry/BreakfastHuntTrainLeader/master/icon.png",
     "AssemblyVersion": "1.0.1.1",
     "ApplicableVersion": "any",
     "DownloadCount": 361,
-    "DownloadLinkInstall": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KirisameVanilla/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/SparkBarry/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SparkBarry/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SparkBarry/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
     "LastUpdate": 1777712019
   }
 ]

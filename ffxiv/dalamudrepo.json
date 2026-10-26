@@ -23,7 +23,7 @@
     "DownloadLinkInstall": "https://asvel.github.io/ffxiv-literal-map-link/1.1.8.0.zip",
     "DownloadLinkTesting": "https://asvel.github.io/ffxiv-literal-map-link/1.1.8.0.zip",
     "DownloadLinkUpdate": "https://asvel.github.io/ffxiv-literal-map-link/1.1.8.0.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   },
   {
     "Author": "akira0245, SparkBarry",
@@ -43,11 +43,11 @@
     "ApplicableVersion": "any",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadCount": 5466,
+    "DownloadCount": 6568,
     "DownloadLinkInstall": "https://github.com/SparkBarry/Radar/releases/latest/download/latest.zip",
     "DownloadLinkTesting": "https://github.com/SparkBarry/Radar/releases/latest/download/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SparkBarry/Radar/releases/latest/download/latest.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   },
   {
     "Author": "SparkBarry",
@@ -62,11 +62,11 @@
     "RepoUrl": "https://github.com/SparkBarry/Marisa-s-HuntKit",
     "AssemblyVersion": "0.0.0.5",
     "ApplicableVersion": "any",
-    "DownloadCount": 252,
+    "DownloadCount": 260,
     "DownloadLinkInstall": "https://github.com/SparkBarry/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
     "DownloadLinkTesting": "https://github.com/SparkBarry/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SparkBarry/Marisa-s-HuntKit/releases/download/0.0.0.5/latest.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   },
   {
     "Author": "SparkBarry",
@@ -83,11 +83,11 @@
     "RepoUrl": "https://github.com/SparkBarry/SpecialWeaponProgressOverview",
     "AssemblyVersion": "0.0.0.2",
     "ApplicableVersion": "any",
-    "DownloadCount": 105,
+    "DownloadCount": 115,
     "DownloadLinkInstall": "https://github.com/SparkBarry/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/SparkBarry/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SparkBarry/SpecialWeaponProgressOverview/releases/download/0.0.0.3/latest.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   },
   {
     "Author": "kawaii, NightmareXIV, SparkBarry (本地化)",
@@ -103,11 +103,11 @@
     "IconUrl": "https://love.puni.sh/resources/orbwalker.png",
     "AssemblyVersion": "1.0.1.3",
     "ApplicableVersion": "any",
-    "DownloadCount": 976,
+    "DownloadCount": 990,
     "DownloadLinkInstall": "https://github.com/SparkBarry/Orbwalker/releases/download/1.0.1.3/latest.zip",
     "DownloadLinkTesting": "https://github.com/SparkBarry/Orbwalker/releases/download/1.0.1.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SparkBarry/Orbwalker/releases/download/1.0.1.3/latest.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   },
   {
     "Author": "SparkBarry",
@@ -126,11 +126,11 @@
     "RepoUrl": "https://github.com/SparkBarry/FakeName",
     "AssemblyVersion": "2.0.0.9",
     "ApplicableVersion": "any",
-    "DownloadCount": 1170,
+    "DownloadCount": 0,
     "DownloadLinkInstall": "https://github.com/SparkBarry/FakeName/releases/download/2.0.0.9/latest.zip",
     "DownloadLinkTesting": "https://github.com/SparkBarry/FakeName/releases/download/2.0.0.9/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SparkBarry/FakeName/releases/download/2.0.0.9/latest.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   },
   {
     "Author": "SparkBarry",
@@ -149,10 +149,10 @@
     "IconUrl": "https://raw.githubusercontent.com/SparkBarry/BreakfastHuntTrainLeader/master/icon.png",
     "AssemblyVersion": "1.0.1.1",
     "ApplicableVersion": "any",
-    "DownloadCount": 361,
+    "DownloadCount": 375,
     "DownloadLinkInstall": "https://github.com/SparkBarry/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/SparkBarry/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SparkBarry/BreakfastHuntTrainLeader/releases/download/1.0.1.1/latest.zip",
-    "LastUpdate": 1777712019
+    "LastUpdate": 1792973289
   }
 ]
